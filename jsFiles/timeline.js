@@ -66,7 +66,7 @@ function FirstExperiment(mytargetBig, mystreak, ismoney)
 
     <p><b>Welcome to Ball Games!</b></p>
 
-    <p>For the next 5 to 8 minutes, you'll be helping us 
+    <p>For the next 8 to 10 minutes, you'll be helping us 
     answer the following question: "What makes some games more immersive and engaging than others?"</p>
 
     <p>Specifically, you'll play three different ball games and provide feedback about each one. 
@@ -637,7 +637,7 @@ function SecondExperiment(mytargetBig, mystreak, ismoney)
 
     <p><b>Welcome to Ball Games!</b></p>
 
-    <p>For the next 5 to 8 minutes, you'll be helping us 
+    <p>For the next 8 to 10 minutes, you'll be helping us 
     answer the following question: "What makes some games more immersive and engaging than others?"</p>
 
     <p>Specifically, you'll play three different ball games and provide feedback about each one. 
